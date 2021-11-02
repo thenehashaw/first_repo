@@ -1,5 +1,3 @@
-a = 6
-b = 7
-print (a+b)
-
-print("Hello Vishal ! ")
+a = int(input("Enter the first number :"))
+b = int(input("Enter the  second number :"))
+print ("The sum is" , a+b) 
